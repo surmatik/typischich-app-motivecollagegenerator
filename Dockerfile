@@ -1,5 +1,5 @@
 # Basis-Image auswählen
-FROM python:3.10
+FROM python:3.15
 
 # Arbeitsverzeichnis im Container erstellen
 WORKDIR /app
